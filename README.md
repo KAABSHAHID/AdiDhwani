@@ -286,9 +286,9 @@ Whisper's `02_finetune.py` exposes a separate `processor` path so the stage-1 to
 | Bhili | **Hindi** | **45.33** | −1.20 pp |
 | Bhili | Marathi | 57.91 | +11.38 pp |
 | Bhili | Gujarati | 56.82 | +10.29 pp |
-| Mundari | **Hindi** | **64.13** | -2.04 |
-| Mundari | Santali | 77.81 | +11.64 |  
-| Mundari | Bengali | 74.24 | +8.07 |      
+| Mundari | **Hindi** | **64.13** | -2.04 pp |
+| Mundari | Santali | 77.81 | +11.64 pp |  
+| Mundari | Bengali | 74.24 | +8.07 pp |      
 
 Hindi is the only consistently helpful donor — **including for Mundari, where Santali is genealogically closer**. Acoustic representation similarity predicts transfer utility better than language-family membership.
 
