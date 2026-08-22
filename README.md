@@ -10,7 +10,7 @@ Pooja Singh<sup>1\*</sup> · M Kaab Bin Shahid<sup>2\*</sup> · Sandeep Kumar<su
 <br><sub>\*Equal contribution</sub>
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
-[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-AdiDhwani-yellow.svg)](https://huggingface.co/misniitd)
+[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-AdiDhwani-yellow.svg)](https://huggingface.co/datasets/misniitd/AdiDhwani)
 [![License: Apache 2.0](https://img.shields.io/badge/Code%20License-Apache%202.0-blue.svg)](LICENSE)
 [![Data License: CC BY-NC-SA 4.0](https://img.shields.io/badge/Data%20License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
