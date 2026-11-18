@@ -9,7 +9,7 @@ Pooja Singh<sup>1\*</sup> · M Kaab Bin Shahid<sup>2\*</sup> · Sandeep Kumar<su
 <sup>1</sup>Indian Institute of Technology Delhi &nbsp;·&nbsp; <sup>2</sup>University of Stuttgart
 <br><sub>\*Equal contribution</sub>
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)]([https://arxiv.org/abs/XXXX.XXXXX](https://aclanthology.org/2026.emnlp-main.1707.pdf))
 [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-AdiDhwani-yellow.svg)](https://huggingface.co/datasets/misniitd/AdiDhwani)
 [![License: Apache 2.0](https://img.shields.io/badge/Code%20License-Apache%202.0-blue.svg)](LICENSE)
 [![Data License: CC BY-NC-SA 4.0](https://img.shields.io/badge/Data%20License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -48,7 +48,7 @@ This repository contains **all training, decoding, and analysis code** required 
 
 | Resource | Link |
 |---|---|
-| Paper | https://arxiv.org/abs/XXXX.XXXXX &nbsp;*(placeholder — to be updated on publication)* |
+| Paper | https://aclanthology.org/2026.emnlp-main.1707.pdf |
 | Dataset, splits, transcripts | https://huggingface.co/misniitd |
 | Code (this repository) | https://github.com/misniitdelhi-ai/AdiDhwani |
 
@@ -446,7 +446,7 @@ AdiDhwani is an initial benchmark. It does not capture the full sociolinguistic 
   author = {Singh, Pooja and Shahid, M Kaab Bin and Kumar, Sandeep},
   year   = {2026},
   note   = {Equal contribution: Pooja Singh and M Kaab Bin Shahid},
-  url    = {https://github.com/misniitdelhi-ai/AdiDhwani}
+  url    = {https://aclanthology.org/2026.emnlp-main.1707.pdf}
 }
 ```
 
